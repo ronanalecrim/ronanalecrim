@@ -26,19 +26,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ronanalecrim&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronanalecrim&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais utilizadas" />
-
-</div>
-
----
 
 ## 🌐 Connect with Me
 
